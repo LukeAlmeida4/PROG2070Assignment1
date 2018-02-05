@@ -11,7 +11,17 @@ namespace PROG2070Assignment1
         public static void Main()
         {
             int userChoice = 0;
-            int numberChoice = 0;
+            int currentLength;
+            int currentWidth;
+
+            Console.WriteLine("Enter a positive value for the rectangle length");
+            userChoice = GetInput();
+            currentLength = Rectangle.SetLength(userChoice);
+
+            Console.WriteLine("Enter a positive value for the rectangle Width");
+            userChoice = GetInput();
+            currentWidth = Rectangle.SetWidth(userChoice);
+
 
             while (userChoice != 7)
             {
@@ -22,32 +32,36 @@ namespace PROG2070Assignment1
                     return;
                 }
                 //
-                //Console.WriteLine("Select either 1 - 7");
-                //numberChoice = GetChoice();
 
                 if (userChoice == 1)
                 {
-                    Console.WriteLine("This works!!");
-                    //run method
+                    Console.WriteLine("The current length of the rectangle is:" + currentLength.ToString());
                 }
                 else if (userChoice == 2)
                 {
-
+                    Console.WriteLine("Please input the new length for the rectangle");
+                    userChoice = GetInput();
+                    currentLength = Rectangle.SetLength(userChoice);
                 }
                 else if (userChoice == 3)
                 {
+                    Console.WriteLine("The current width of the rectangle is:" + currentWidth.ToString());
 
                 }
                 else if (userChoice == 4)
                 {
-
+                    Console.WriteLine("Please input the new width for the rectangle");
+                    userChoice = GetInput();
+                    currentLength = Rectangle.SetWidth(userChoice);
                 }
                 else if (userChoice == 5)
                 {
+                    Console.WriteLine("The current perimeter of the rectangle is: " + Rectangle.GetPerimeter());
 
                 }
                 else if (userChoice == 6)
                 {
+                    Console.WriteLine("The current area of the rectangle is: " + Rectangle.GetArea());
 
                 }
                 else
@@ -57,7 +71,7 @@ namespace PROG2070Assignment1
             }
         }
 
-        private static int GetLength()
+        public static int GetInput()
         {
             try
             {
