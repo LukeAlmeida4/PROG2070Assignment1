@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27130.2027
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PROG2070Assignment1", "PROG2070Assignment1\PROG2070Assignment1.csproj", "{0C5675FB-3FF3-4B7D-BC38-4E38C8148F0C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PROG2070Assignment1.Tests", "PROG2070Assignment1.Tests\PROG2070Assignment1.Tests.csproj", "{2F1DBFAE-56DA-4D3B-9E2A-EB59B095DE10}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{0C5675FB-3FF3-4B7D-BC38-4E38C8148F0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0C5675FB-3FF3-4B7D-BC38-4E38C8148F0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0C5675FB-3FF3-4B7D-BC38-4E38C8148F0C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F1DBFAE-56DA-4D3B-9E2A-EB59B095DE10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F1DBFAE-56DA-4D3B-9E2A-EB59B095DE10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F1DBFAE-56DA-4D3B-9E2A-EB59B095DE10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F1DBFAE-56DA-4D3B-9E2A-EB59B095DE10}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

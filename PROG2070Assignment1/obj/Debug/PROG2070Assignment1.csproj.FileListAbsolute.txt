@@ -5,3 +5,10 @@ C:\Users\Luke\Documents\Visual Studio 2017\Projects\PROG2070Assignment1\PROG2070
 C:\Users\Luke\Documents\Visual Studio 2017\Projects\PROG2070Assignment1\PROG2070Assignment1\bin\Debug\PROG2070Assignment1.pdb
 C:\Users\Luke\Documents\Visual Studio 2017\Projects\PROG2070Assignment1\PROG2070Assignment1\obj\Debug\PROG2070Assignment1.exe
 C:\Users\Luke\Documents\Visual Studio 2017\Projects\PROG2070Assignment1\PROG2070Assignment1\obj\Debug\PROG2070Assignment1.pdb
+C:\Users\Luke\Desktop\PROG2070Assignment1\PROG2070Assignment1\bin\Debug\PROG2070Assignment1.exe.config
+C:\Users\Luke\Desktop\PROG2070Assignment1\PROG2070Assignment1\bin\Debug\PROG2070Assignment1.exe
+C:\Users\Luke\Desktop\PROG2070Assignment1\PROG2070Assignment1\bin\Debug\PROG2070Assignment1.pdb
+C:\Users\Luke\Desktop\PROG2070Assignment1\PROG2070Assignment1\obj\Debug\PROG2070Assignment1.csprojResolveAssemblyReference.cache
+C:\Users\Luke\Desktop\PROG2070Assignment1\PROG2070Assignment1\obj\Debug\PROG2070Assignment1.csproj.CoreCompileInputs.cache
+C:\Users\Luke\Desktop\PROG2070Assignment1\PROG2070Assignment1\obj\Debug\PROG2070Assignment1.exe
+C:\Users\Luke\Desktop\PROG2070Assignment1\PROG2070Assignment1\obj\Debug\PROG2070Assignment1.pdb
